@@ -8,7 +8,7 @@ I love solving complex problems, crafting elegant solutions, and creating digita
 
 ## 👨‍💻 Professional Experience  
 
-### 🟢 **Senior Software Engineer** — Sofrix Pvt. Ltd. *(Jan 2025 – Present)*  
+### 🟢 **Software Engineer** — Sofrix Pvt. Ltd. *(Jan 2025 – Present)*  
 - 📱 **Get Foodies** - React Native (Expo) app with Redux Toolkit & multilingual support
 - 🔗 **Linxx Platform** - Web + Mobile app using Capacitor with job listings, GPS discovery, and Plaid payments
 - 🧾 **Bitlux** - Travel ticketing platform with dynamic PDF generation (jsPDF) and Salesforce integration
